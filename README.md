@@ -43,7 +43,7 @@ The exploit demonstrates how an attacker **could have reset user passwords** via
 
 ### 🧩 Python Modules
 ```bash
-pip install undetected-chromedriver cloudscraper python-dateutil colorama secure-input
+pip install undetected-chromedriver cloudscraper python-dateutil colorama secure-input customtkinter Pillow
 ````
 
 ---
