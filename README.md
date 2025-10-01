@@ -50,13 +50,13 @@ pip install undetected-chromedriver cloudscraper python-dateutil colorama secure
 
 ## 🚀 Usage
 
-### ▶️ Command-Line (CUI) Version
+### ▶️ Command-line User Interface (CUI) Version
 
 ```bash
 python main.py
 ```
 
-### 🖥️ GUI Version
+### 🖥️ Graphical User Interface (GUI) Version
 
 ```bash
 python main.py
