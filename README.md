@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PoC-Educational%20Use%20Only-orange?style=for-the-badge" />
   <br />
-  <a href="[https://x.com/](https://x.com/Swezy_1337/status/1973420745364742645)"><img src="https://img.shields.io/badge/X Post-Click here to view-white?style=for-the-badge" /></a>
+  <a href="https://x.com/Swezy_1337/status/1973420745364742645"><img src="https://img.shields.io/badge/X Post-Click here to view-white?style=for-the-badge" /></a>
 </p>
 
 <h1 align="center">⚡ Whitepages.com Vulnerability Exploit (Patched) ⚡</h1>
