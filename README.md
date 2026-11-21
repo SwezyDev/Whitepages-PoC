@@ -9,7 +9,7 @@
 <h1 align="center">⚡ Whitepages.com Vulnerability Exploit (Patched) ⚡</h1>
 
 <p align="center">
-  <strong>⚠️ CVE-2025-XXXX | Exploit by <a href="https://t.me/Swezy">@Swezy</a></strong><br>
+  <strong>⚠️ Exploit by <a href="https://t.me/Swezy">@Swezy</a></strong><br>
   <em>13. September 2025</em>
 </p>
 
