@@ -1,6 +1,5 @@
 # Whitepages.com Vulnerability Exploit by https://t.me/Swezy
 # 13. September 2025
-# CVE-2025-XXXX 
 # Exploit Author: Swezy
 # GitHub: https://github.com/SwezyDev
 
